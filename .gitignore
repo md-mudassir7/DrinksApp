@@ -2,3 +2,4 @@ drinks/__pycache__
 drinks/migrations/__pycache__
 .venv/
 db.sqlite3
+.envdrinks/.env
