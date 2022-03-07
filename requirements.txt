@@ -1,0 +1,4 @@
+requests
+django
+rest_framework
+json
